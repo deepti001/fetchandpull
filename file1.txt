@@ -1,5 +1,9 @@
 Adding this new line for merge check
 Added this new line
+<<<<<<< HEAD
 This is the updation from the master
+=======
+this is the new addition of conflict
+>>>>>>> abc
 This line is also for the merge check
 This is the new file 1 to see the difference
