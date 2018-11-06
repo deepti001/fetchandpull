@@ -1,1 +1,2 @@
+Added this new line
 This is the new file 1 to see the difference

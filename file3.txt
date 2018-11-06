@@ -1,2 +1,3 @@
+Added this new line
 This is the first file to work on. 
 This is the modified file.
