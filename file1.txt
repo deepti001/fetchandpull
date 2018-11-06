@@ -1,4 +1,5 @@
 Adding this new line for merge check
 Added this new line
+This is the updation from the master
 This line is also for the merge check
 This is the new file 1 to see the difference
